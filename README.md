@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DemPi-it. My name is Kirill, from Russia, Moscow.
-- 👀 I’m interested in .NET development.
-- 🌱 I’m currently learning programming language C#, soon i'd like to start learning ASP.NET to become backend developer.
+- 👀 I’m interested in QA.
+- 🌱 I’m currently learning programming language Java and Rest Assured framework.
 - 📫 How to reach me: email - dempi2016@yandex.ru.
 
 <!---
