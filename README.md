@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DemPi-it. My name is Kirill, from Russia, Moscow.
 - 👀 I’m interested in QA.
-- 🌱 I’m currently learning programming language Java and Rest Assured framework.
+- 🌱 I’m currently learning programming language Java and tesing frameworks (Rest Assured, Selenium).
 - 📫 How to reach me: email - dempi2016@yandex.ru.
 
 <!---
